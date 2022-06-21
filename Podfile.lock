@@ -1,0 +1,28 @@
+PODS:
+  - Masonry (1.1.0)
+  - MMKV (1.2.13):
+    - MMKVCore (~> 1.2.13)
+  - MMKVCore (1.2.13)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - MMKV
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - MMKV
+    - MMKVCore
+    - YYModel
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MMKV: aac95d817a100479445633f2b3ed8961b4ac5043
+  MMKVCore: 3388952ded307e41b3ed8a05892736a236ed1b8e
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 162d7b27ee66146330bc950db9eced68f00dcc34
+
+COCOAPODS: 1.11.2
